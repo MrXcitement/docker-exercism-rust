@@ -9,25 +9,25 @@ distribution of an Exercism 'rust' track docker image.
 To build the image
 
 ```
-$ make docker-build
+$ make build
 ```
 
 To push the built image
 
 ```
-$ make docker-push
+$ make push
 ```
 
 To login to docker hub
 
 ```
-$ make docker-login
+$ make login
 ```
 
 To run the image
 
 ```
-$ make docker-run
+$ make run
 ```
 
 ## Contributing
